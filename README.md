@@ -1,10 +1,19 @@
 - 👋 Hi, I’m @AyaBrados
-- 👀 I’m interested in Game Mechanics 
-- 🌱 I’m currently learning for a BSc in
- Computer Science
+- 👀 At the moment I’m interested in all things Web Development and am employed as a Full-Stack developer.
+- 🌱 I obtained my BSc in
+ Computer Science with Distinction at the UFS.
 - 💞️ I’m looking to collaborate on any c# and
  web development projects.
-- 📫 How to reach me italianobrados@gmail.com 
+- 📫 How to reach me italianobrados@gmail.com
+
+- Languages & Frameworks:
+- C#
+- HTML
+- JavaScript
+- CSS
+- SQL
+- AngularJS & Angular
+- Xamarin
 
 <!---
 AyaBrados/AyaBrados is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
